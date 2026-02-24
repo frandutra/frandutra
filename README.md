@@ -1,35 +1,48 @@
-# ¡Hola! Soy Francisco Dutra 👋 
+# ¡Hola! Soy Francisco Dutra 👋
 
-### 🚀 Ingeniero en Sistemas | Analista Desarrollador | Data Enthusiast
+### 🚀 Ingeniero en Sistemas | Analista Desarrollador | Data & Automation Enthusiast
 
-[cite_start]Soy un **Ingeniero en Sistemas de Información** [cite: 20] [cite_start]enfocado en el análisis de datos, el modelado predictivo y la automatización de procesos[cite: 4, 5]. [cite_start]Actualmente me desempeño como **Analista Desarrollador en Bantotal**, donde combino el conocimiento del negocio bancario con la resolución técnica de problemas[cite: 9, 10, 14].
+Soy un **Ingeniero en Sistemas de Información** (en formación, 2020-2025) por la **UTN FRMCU**. Mi enfoque combina el desarrollo de software con la analítica avanzada de datos y la optimización de procesos mediante automatización.
 
-[cite_start]Anteriormente, trabajé como **Becario de Investigación**, especializándome en técnicas de **Web Scraping** y la construcción de modelos predictivos[cite: 16, 17, 18].
+Actualmente me desempeño como **Analista Desarrollador en Bantotal** , donde aplico mi conocimiento del negocio bancario para el mantenimiento de sistemas, desarrollo de programas y elaboración de informes técnicos.
 
----
-
-### 🛠️ Tecnologías & Herramientas
-
-- [cite_start]**Lenguajes y Desarrollo:** Python (Pandas, Scikit-Learn), Genexus, HTML/CSS[cite: 7, 26].
-- [cite_start]**Bases de Datos:** PostgreSQL, SQL Server[cite: 27].
-- [cite_start]**Data Science:** Machine Learning, Clustering, Clasificación, Visualización[cite: 5, 6].
-- [cite_start]**Automatización:** Selenium, Power Automate, n8n.
-- [cite_start]**Metodologías & Gestión:** Scrum, Kanban, UML, BPMN, Jira[cite: 29, 30, 31].
+Anteriormente, como **Becario de Investigación** , perfeccioné mis habilidades en **Web Scraping**, procesamiento de grandes volúmenes de datos y construcción de modelos predictivos.
 
 ---
 
-### 📈 Mi Enfoque Profesional
-- [cite_start]**Pensamiento estructurado:** Resolución de problemas complejos con una visión analítica[cite: 33, 35].
-- [cite_start]**Comunicación efectiva:** Capacidad para articular ideas en entornos técnicos y no técnicos[cite: 34].
-- [cite_start]**Orientación a resultados:** Foco constante en la mejora continua y el aprendizaje colaborativo[cite: 35].
+### 🛠️ Stack Tecnológico
+
+- **Lenguajes & Desarrollo:** Python (Pandas, Scikit-Learn), HTML, CSS, Genexus.
+- **Bases de Datos:** PostgreSQL, SQL Server.
+- **Automatización & Scraping:** Selenium, Power Automate, n8n.
+- **Data Science:** Clustering, Clasificación, Visualización y Modelado Predictivo.
+- **Gestión & Metodologías:** Scrum, Kanban, UML, BPMN, Jira.
 
 ---
 
-### 📫 Contacto
-- [cite_start]🌍 Ubicación: Concepción del Uruguay, Entre Ríos[cite: 2].
-- 📧 Email: fdutra2001@gmail.com
-- [cite_start]💬 Idiomas: Inglés (Intermedio Alto - B2)[cite: 23].
+### 📂 Proyectos Destacados
+
+* 🏎️ **[F1-Oracle](https://github.com/frandutra/F1-Oracle):** Análisis predictivo y modelado de datos sobre la Fórmula 1.
+* 🎮 **[SteamNext](https://github.com/frandutra/SteamNext):** Extracción y análisis de tendencias en lanzamientos de gaming.
+* 📈 **[Cripto-Monitor-ML](https://github.com/frandutra/cripto-monitor-ml):** Monitoreo de activos digitales con integración de Machine Learning.
 
 ---
 
-![Mis Stats de GitHub](https://github-readme-stats.vercel.app/api?username=frandutra&show_icons=true&theme=tokyonight)
+### 📈 Competencias & Soft Skills
+- **Resolución de problemas:** Pensamiento estructurado para desafíos técnicos complejos.
+- **Comunicación:** Capacidad para articular soluciones en entornos técnicos y no técnicos.
+- **Idiomas:** Inglés nivel Intermedio Alto (B2).
+- **Perfil Proactivo:** Fuerte orientación a resultados y mejora continua.
+
+---
+
+### 📫 Conectemos
+* 📍 Concepción del Uruguay, Entre Ríos.
+* 📧 [fdutra2001@gmail.com](mailto:fdutra2001@gmail.com).
+* 💼 [Mi LinkedIn](https://www.linkedin.com/in/francisco-dutra/)
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+![Stats de Francisco](https://github-readme-stats.vercel.app/api?username=frandutra&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frandutra&layout=compact&theme=tokyonight)
