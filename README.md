@@ -44,5 +44,8 @@ Anteriormente, como **Becario de Investigación** , perfeccioné mis habilidades
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-![Stats de Francisco](https://github-readme-stats.vercel.app/api?username=frandutra&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frandutra&layout=compact&theme=tokyonight)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=frandutra&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frandutra&layout=compact&theme=tokyonight" />
+</p>
+
