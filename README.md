@@ -2,7 +2,7 @@
 
 ### 🚀 Ingeniero en Sistemas | Analista Desarrollador | Data & Automation Enthusiast
 
-Soy un **Ingeniero en Sistemas de Información** (en formación, 2020-2025) por la **UTN FRMCU**. Mi enfoque combina el desarrollo de software con la analítica avanzada de datos y la optimización de procesos mediante automatización.
+Soy un **Ingeniero en Sistemas de Información** por la **UTN FRMCU**. Mi enfoque combina el desarrollo de software con la analítica avanzada de datos y la optimización de procesos mediante automatización.
 
 Actualmente me desempeño como **Analista Desarrollador en Bantotal** , donde aplico mi conocimiento del negocio bancario para el mantenimiento de sistemas, desarrollo de programas y elaboración de informes técnicos.
 
@@ -39,7 +39,7 @@ Anteriormente, como **Becario de Investigación** , perfeccioné mis habilidades
 ### 📫 Conectemos
 * 📍 Concepción del Uruguay, Entre Ríos.
 * 📧 [fdutra2001@gmail.com](mailto:fdutra2001@gmail.com).
-* 💼 [Mi LinkedIn](https://www.linkedin.com/in/francisco-dutra/)
+* 💼 [Mi LinkedIn](https://www.linkedin.com/in/frandutra/)
 
 ---
 
