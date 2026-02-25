@@ -44,8 +44,7 @@ Anteriormente, como **Becario de Investigación** , perfeccioné mis habilidades
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=frandutra&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frandutra&layout=compact&theme=tokyonight" />
-</p>
-
+### 📊 Mi Actividad
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
