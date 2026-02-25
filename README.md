@@ -43,8 +43,4 @@ Anteriormente, como **Becario de Investigación** , perfeccioné mis habilidades
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-### 📊 Mi Actividad
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
