@@ -2,7 +2,7 @@
 
 ### 🚀 Ingeniero en Sistemas | Analista Desarrollador | Data & Automation Enthusiast
 
-Soy un **Ingeniero en Sistemas de Información** por la **UTN FRMCU**. Mi enfoque combina el desarrollo de software con la analítica avanzada de datos y la optimización de procesos mediante automatización.
+Soy un **Ingeniero en Sistemas de Información** por la **UTN FRCU**. Mi enfoque combina el desarrollo de software con la analítica avanzada de datos y la optimización de procesos mediante automatización.
 
 Actualmente me desempeño como **Analista Desarrollador en Bantotal** , donde aplico mi conocimiento del negocio bancario para el mantenimiento de sistemas, desarrollo de programas y elaboración de informes técnicos.
 
